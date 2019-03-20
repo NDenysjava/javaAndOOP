@@ -1,4 +1,4 @@
-package javaAndOOP.Square;
+package javaAndOOP.square;
 
 import javaAndOOP.AbstractShape;
 

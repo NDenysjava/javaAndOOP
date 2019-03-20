@@ -1,4 +1,4 @@
-package javaAndOOP.Circle;
+package javaAndOOP.circle;
 
 import javaAndOOP.AbstractShape;
 

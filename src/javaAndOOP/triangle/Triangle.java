@@ -1,4 +1,4 @@
-package javaAndOOP.Triangle;
+package javaAndOOP.triangle;
 
 import javaAndOOP.AbstractShape;
 
