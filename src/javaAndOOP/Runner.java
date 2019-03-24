@@ -1,4 +1,4 @@
-package javaAndOOP;
+/*package javaAndOOP;
 import java.util.logging.Logger;
 
 import javaAndOOP.circle.Circle;
@@ -28,4 +28,4 @@ public class Runner {
 
 	}
 
-}
+}*/

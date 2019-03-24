@@ -33,4 +33,11 @@ public class Triangle extends AbstractShape {
 		return width / 2 * height;
 	}
 
+
+
+	public Triangle(double width, double height) {
+		this.width = width;
+		this.height = height;
+	}
+		
 }
