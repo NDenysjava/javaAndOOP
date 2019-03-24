@@ -35,11 +35,7 @@ public class RunnerPlus {
 		shaps.add(triangle66);
 		shaps.add(square77);
 		shaps.add(square66);
-		
-				
-		//HashSet <Shape> setOfShaps = new HashSet <Shape> (shaps);
-		
-				
+						
 		Shape minShape = shaps.get(0);
 		Shape maxShape = shaps.get(0);
 		
